@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(39, 39, 39);
+
+}
+* {
+    box-sizing: border-box;
+  }
+  
+.login{
+    background-color: rgb(77, 77, 77);
+    width: 100%;
+    height: 500px;
+}
+
+ /* search positionong */
+.searchPosition{
+    border-color: black;
+    margin-left: 100px;
+    width: 400px;
+}
+
+
+/* button position */
+.buttonPosition , li{
+    margin-left: 20px;
+    
+ }
+
+ /* Header link color */
+ 
+ .nav-link{
+     
+    color: white;
+    font: 15px Montserrat Light;
+    margin-left: 20px;
+}
+
+ /* Text Logo */
+ .navbar-brand{
+    color: rgb(233, 235, 233);
+    font: 25px Montserrat Light;
+}
+
+.register{
+    padding-top: 20px;
+    margin-left: 60px;
+}   
+
+.space{
+    margin-top: -40px;
+    margin-left: 25em;
+    
+}
+
+.logins{
+
+    background-color: rgb(100, 95, 95);
+    padding-top: 60px;
+    height: auto;
+    width: 77em;
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-style: solid;
+    border-color: rgb(59, 59, 59);
+}
+.input{
+    margin-left: 280px;
+    height: auto;
+    padding-bottom: 25px;
+    
+    
+}   
+.button{
+    margin-top: 10px;
+    margin-left: 550px;
+    width: 100px;
+    padding: 25px;
+}
+.userName, .password{
+    height:50px;
+    width: 40em;
+    font-size:20px;
+    font: 16px Montserrat Light;
+    padding: 25px;
+    
+}
+
+
+
+.register > h2{
+    
+    color: white;
+    font: 35px Montserrat Light;
+
+}
+
+.register > .space{
+    
+    color: white;
+    font: 20px Montserrat Light;
+    margin-left: 900px;
+
+}

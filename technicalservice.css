@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(39, 39, 39);
+
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+.techservice{
+    background-color: rgb(39, 39, 39);
+    height: 500px;
+    width: 100%;
+}
+
+.tech1 ,.tech2{
+    height: 330px;
+    width: 45em;
+    margin-left: 111px;
+    background-color: rgb(100, 95, 95);
+    padding-top: 15px;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-style: solid;
+    border-color: rgb(59, 59, 59);
+    
+}
+
+
+
+.tech2{
+    margin-left: 50em;
+    margin-top: -21em;
+}
+
+.image1{
+    height: 200px;
+    width: 15em;
+    background-color: black;
+    margin-left: 40px;
+    
+}
+
+.profile , .profile2 {
+    margin-top: -12em;
+    margin-left: 23em;
+    
+    
+}
+h5{
+    color: white;
+    font: 20px Montserrat Light;
+    margin-left: 5px;
+   
+}
+
+.buttonStyle , .buttonStyle1{
+    margin-top: 5px ;
+    font-size: 25px;
+    font: 20px Montserrat Light;
+}
+
+.image2{
+    height: 200px;
+    width:15em;
+    background-color: black;
+    margin-left: 40px;
+    
+}

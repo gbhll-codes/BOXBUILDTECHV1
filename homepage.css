@@ -1,0 +1,128 @@
+body{
+    background-color: rgb(39, 39, 39);
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+    /* search positionong */
+.searchPosition{
+    border-color: black;
+    margin-left: 100px;
+    width: 400px;
+}
+
+/* Product label */
+.popularprod{
+    color: white;
+    font: 16px Montserrat Light;
+    margin-top: 50px;
+}
+
+
+  .card{
+      flex: wrap;
+      width: 200px;
+      height: auto;
+      margin: 20px;
+      
+  }
+  .row, .card{
+      margin-left: 20px;
+  }
+
+
+/* button position */
+.buttonPosition , li{
+    margin-left: 40px;
+    
+ }
+ 
+ /* banner top */
+.heroimage{
+    height: auto;
+    width: initial;
+   
+}
+/* product container */
+.flex-container{
+    display: flex;
+    background-color:rgb(39, 39, 39);
+    justify-content: center;
+    margin-top: 20px;
+    flex: 1;
+    
+    
+}
+
+.flex-container > div {
+    background-color: #f1f1f1;
+    margin: 5px;
+    padding: 5px;
+    font-size: 15px;
+    
+  
+  }
+
+  /* Header link color */
+  
+  .nav-link{
+      color: white;
+      font: 15px Montserrat Light;
+      margin-left: 20px;
+  }
+  
+  /* Text Logo */
+  @media screen and (max-width: 500px) {
+  .navbar-brand{
+    color: rgb(233, 235, 233);
+    font: 25px Montserrat Light;
+}
+  }
+
+/* banner */
+
+.banner{
+    display: flex;
+    background-color: DodgerBlue;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+
+  .banner2{
+    display: flex;
+    background-color: DodgerBlue;
+    justify-content: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    flex: 1;
+    
+  }
+  .banner2 > div {
+    background-color: #f1f1f1;
+    margin: 20px;
+    padding: 5px;
+    font-size: 15px;
+    
+  
+  }
+  .h1{
+      color: #f1f1f1;
+  }
+
+
+  .footer {
+    position: block;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:white;
+    color: black;
+    text-align: center;
+  }
+

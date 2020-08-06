@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(39, 39, 39);
+
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+  /* button position */
+.buttonPosition , li{
+    margin-left: 40px;
+    
+ }
+
+ .nav-link{
+    color: white;
+    font: 15px Montserrat Light;
+    margin-left: 20px;
+}
+
+@media screen and (max-width: 500px) {
+    .navbar-brand{
+      color: rgb(233, 235, 233);
+      font: 25px Montserrat Light;
+  }
+    }
+
+    .searchPosition{
+        border-color: black;
+        margin-left: 100px;
+        width: 400px;
+    }
+
+.profile{
+    background-color: rgb(100, 95, 95);
+    height: 31em;
+    width: 100%;
+}
+
+.image1{
+    height: 15em;
+    width: 14em;
+    background-color: white;
+    margin-left: 5em;
+   
+}
+
+.description{
+    font-size: 25px;
+    font-family: 'Montserrat Light';
+    color: white;
+    margin-left: 1.3em;
+    }
+
+.appointment{
+    margin-top: -21em;
+    margin-left: 28em;
+    
+}
+
+.textSize{
+    font-size: 20px;
+    color: white;
+    font-family: 'Montserrat Light';
+}
+
+.buttonPosition{
+    margin-left: 5em;
+    margin-top: 20px;
+}
+
+.button{
+    margin-top: 5px;
+}
